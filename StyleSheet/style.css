@@ -301,11 +301,11 @@ footer{
     width: 30%; 
 
 }
-#partition>div:last-child{
-    /* border: 1px solid blue; */
-    /* width: 50%; */
+/* #partition>div:last-child{
+    border: 1px solid blue;
+    width: 50%;
     
-}
+} */
 #partition>div>div>select{
     width: 100%;
     height: 40px;
